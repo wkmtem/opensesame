@@ -1,0 +1,3 @@
+构建dubbo-x.x.x
+1、导入dubbo编译依赖(hessian-lite、opensesame)至IDEA
+2、安装hessian-lite、opensesame到本地仓库：MavenProjects-Lifecycle-install-run 'xxx[install]'
